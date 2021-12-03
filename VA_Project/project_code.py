@@ -7,8 +7,7 @@ import altair as alt
 
 DATE_TIME = "date/time"
 DATA_URL = (
-    #"https://data.cityofnewyork.us/resource/h9gi-nx95.csv"
-    "/Users/malharjoshi/Documents/VA/Project/Motor_Vehicle_Collisions_-_Crashes.csv"
+    "" #Paste appropriate input .csv file path here
 )
 
 st.title("NYC Vehicular Accidents 2012-2021 Trends")
